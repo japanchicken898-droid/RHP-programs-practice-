@@ -1,5 +1,5 @@
 import java.util.*;
-class Main {
+class Solution {
     public static void main(String[] args) {
         Scanner obj=new Scanner(System.in);
         String s1=obj.next();
